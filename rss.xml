@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TheCorkster - Minecraft tips and tricks]]></title>
         <description><![CDATA[TheCorkster - Minecraft tips and tricks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thecorkster/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 21:52:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 22:09:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thecorkster/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e13c72a-90d7-404a-8561-6f82cd1daad9.png">]]></description>
+            <link>https://thegrid.ai/thecorkster/aaab359e-0312-4b99-a4ca-f6a001988be3/index.html</link>
+            <guid isPermaLink="false">aaab359e-0312-4b99-a4ca-f6a001988be3</guid>
+            <pubDate>Sun, 20 Dec 2015 22:09:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My first post!]]></title>
             <description><![CDATA[<article><h1>My first post!</h1><p>Hi, I'm in the UK and love playing Minecraft. I like to be creative and make new buildings and mechanisms!</p></article>]]></description>
-            <link>undefinedmy-first-post/index.html</link>
+            <link>https://thegrid.ai/thecorkster/my-first-post/index.html</link>
             <guid isPermaLink="false">2e2d891e-2dc0-4c41-aac4-31a633279b03</guid>
             <pubDate>Sun, 20 Dec 2015 21:52:04 GMT</pubDate>
         </item>
