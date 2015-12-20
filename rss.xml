@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheCorkster - Minecraft tips and tricks]]></title>
+        <description><![CDATA[TheCorkster - Minecraft tips and tricks]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Dec 2015 21:52:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My first post!]]></title>
+            <description><![CDATA[<article><h1>My first post!</h1><p>Hi, I'm in the UK and love playing Minecraft. I like to be creative and make new buildings and mechanisms!</p></article>]]></description>
+            <link>undefinedmy-first-post/index.html</link>
+            <guid isPermaLink="false">2e2d891e-2dc0-4c41-aac4-31a633279b03</guid>
+            <pubDate>Sun, 20 Dec 2015 21:52:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
